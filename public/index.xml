@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugoplate</title>
-    <link>https://yyyhang.github.io/</link>
-    <description>Recent content on Hugoplate</description>
+    <title>Coding a Bit</title>
+    <link>https://www.codingabit.com/</link>
+    <description>Recent content on Coding a Bit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://yyyhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://www.codingabit.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://yyyhang.github.io/blog/post-1/</link>
+      <link>https://www.codingabit.com/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/blog/post-1/</guid>
+      <guid>https://www.codingabit.com/blog/post-1/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://yyyhang.github.io/blog/post-2/</link>
+      <link>https://www.codingabit.com/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/blog/post-2/</guid>
+      <guid>https://www.codingabit.com/blog/post-2/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://yyyhang.github.io/blog/post-3/</link>
+      <link>https://www.codingabit.com/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/blog/post-3/</guid>
+      <guid>https://www.codingabit.com/blog/post-3/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://yyyhang.github.io/blog/post-4/</link>
+      <link>https://www.codingabit.com/blog/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/blog/post-4/</guid>
+      <guid>https://www.codingabit.com/blog/post-4/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     
     <item>
       <title>Elements</title>
-      <link>https://yyyhang.github.io/elements/</link>
+      <link>https://www.codingabit.com/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/elements/</guid>
+      <guid>https://www.codingabit.com/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>https://yyyhang.github.io/authors/john-doe/</link>
+      <link>https://www.codingabit.com/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/authors/john-doe/</guid>
+      <guid>https://www.codingabit.com/authors/john-doe/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>https://yyyhang.github.io/privacy-policy/</link>
+      <link>https://www.codingabit.com/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/privacy-policy/</guid>
+      <guid>https://www.codingabit.com/privacy-policy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
@@ -81,10 +81,10 @@
     
     <item>
       <title>Sam Wilson</title>
-      <link>https://yyyhang.github.io/authors/sam-wilson/</link>
+      <link>https://www.codingabit.com/authors/sam-wilson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/authors/sam-wilson/</guid>
+      <guid>https://www.codingabit.com/authors/sam-wilson/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
@@ -99,10 +99,10 @@
     
     <item>
       <title>William Jacob</title>
-      <link>https://yyyhang.github.io/authors/william-jacob/</link>
+      <link>https://www.codingabit.com/authors/william-jacob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/authors/william-jacob/</guid>
+      <guid>https://www.codingabit.com/authors/william-jacob/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Hugoplate</title>
-    <link>https://yyyhang.github.io/categories/software/</link>
-    <description>Recent content in Software on Hugoplate</description>
+    <title>Software on Coding a Bit</title>
+    <link>https://www.codingabit.com/categories/software/</link>
+    <description>Recent content in Software on Coding a Bit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://yyyhang.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://www.codingabit.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://yyyhang.github.io/blog/post-3/</link>
+      <link>https://www.codingabit.com/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/blog/post-3/</guid>
+      <guid>https://www.codingabit.com/blog/post-3/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     

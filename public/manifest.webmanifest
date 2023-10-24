@@ -1,10 +1,10 @@
 {
-  "name": "Hugoplate",
-  "short_name": "Hugoplate",
+  "name": "Coding a Bit",
+  "short_name": "Coding a Bit",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "https://yyyhang.github.io/?utm_source=web_app_manifest",
+  "start_url": "https://www.codingabit.com/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#000",
 

@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugoplate</title>
-    <link>https://yyyhang.github.io/tags/</link>
-    <description>Recent content in Tags on Hugoplate</description>
+    <title>Tags on Coding a Bit</title>
+    <link>https://www.codingabit.com/tags/</link>
+    <description>Recent content in Tags on Coding a Bit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://yyyhang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://www.codingabit.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nextjs</title>
-      <link>https://yyyhang.github.io/tags/nextjs/</link>
+      <link>https://www.codingabit.com/tags/nextjs/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/tags/nextjs/</guid>
+      <guid>https://www.codingabit.com/tags/nextjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>silicon</title>
-      <link>https://yyyhang.github.io/tags/silicon/</link>
+      <link>https://www.codingabit.com/tags/silicon/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/tags/silicon/</guid>
+      <guid>https://www.codingabit.com/tags/silicon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>https://yyyhang.github.io/tags/software/</link>
+      <link>https://www.codingabit.com/tags/software/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/tags/software/</guid>
+      <guid>https://www.codingabit.com/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tailwind</title>
-      <link>https://yyyhang.github.io/tags/tailwind/</link>
+      <link>https://www.codingabit.com/tags/tailwind/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/tags/tailwind/</guid>
+      <guid>https://www.codingabit.com/tags/tailwind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>https://yyyhang.github.io/tags/technology/</link>
+      <link>https://www.codingabit.com/tags/technology/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://yyyhang.github.io/tags/technology/</guid>
+      <guid>https://www.codingabit.com/tags/technology/</guid>
       <description></description>
     </item>
     
