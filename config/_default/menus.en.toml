@@ -2,63 +2,29 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "🏠 Home"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "📝 Blog"
+url = "blog/"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "elements/"
 weight = 3
-
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "contact/"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
+name = "📚 Categories"
 url = "categories/"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
-
+name = "🙋🏻‍♂️ About"
+url = "about/"
+weight = 4
 
 # footer menu
-[[footer]]
-name = "About"
-url = "about/"
-weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 3
+weight = 1
+

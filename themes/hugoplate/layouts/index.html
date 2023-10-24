@@ -4,7 +4,7 @@
     <section class="section pt-14">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center">
+          <!-- <div class="lg:col-7 mb-8 text-center">
             <h1 class="mb-4">
               {{ .title | markdownify }}
             </h1>
@@ -12,16 +12,16 @@
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
-              {{ if .enable }}
-                <a class="btn btn-primary" href="{{ .link | absURL }}">
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              {{ end }}
+            {{ if .enable }}
+              <a class="btn btn-primary" href="{{ .link | absURL }}">
+                {{ .label }}
+                <i class="fa fa-arrow-right pl-2"></i>
+              </a>
             {{ end }}
-          </div>
+          {{ end }}
+          </div> -->
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[900px]" ) }}
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
   <!-- /Banner -->
 
   <!-- Features -->
-  {{ range $i, $e:= .Params.features }}
+  <!-- {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
       <div class="container">
         <div class="row items-center justify-between">
@@ -70,11 +70,11 @@
         </div>
       </div>
     </section>
-  {{ end }}
+  {{ end }} -->
   <!-- /Features -->
 
   <!-- Testimonials -->
-  {{ with site.GetPage "sections/testimonial" }}
+  <!-- {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
       <section class="section">
         <div class="container">
@@ -134,6 +134,6 @@
         </div>
       </section>
     {{ end }}
-  {{ end }}
+  {{ end }} -->
   <!-- /Testimonials -->
 {{ end }}
