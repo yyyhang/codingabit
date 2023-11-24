@@ -6,41 +6,23 @@
     <description>Recent content in Blog Posts on Coding a Bit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://www.codingabit.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://www.codingabit.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://www.codingabit.com/blog/post-1/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      
-      <guid>https://www.codingabit.com/blog/post-1/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    
-    <item>
-      <title>How to build an Application with modern Technology</title>
+      <title>Connect to your server via SSH: A Guide to SSH and Public Key Authentication</title>
       <link>https://www.codingabit.com/blog/post-2/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jul 2023 05:00:00 +0000</pubDate>
       
       <guid>https://www.codingabit.com/blog/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description>Introduction Secure Shell (SSH) is an indispensable cryptographic protocol designed to facilitate secure communications over an untrusted network.</description>
     </item>
     
     <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://www.codingabit.com/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <title>Understanding Distributed Systems: An Introductory Guide</title>
+      <link>https://www.codingabit.com/blog/post-1/</link>
+      <pubDate>Sat, 01 Jul 2023 05:00:00 +0000</pubDate>
       
-      <guid>https://www.codingabit.com/blog/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://www.codingabit.com/blog/post-4/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      
-      <guid>https://www.codingabit.com/blog/post-4/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <guid>https://www.codingabit.com/blog/post-1/</guid>
+      <description>Introduction In the realm of computing, the term &amp;ldquo;Distributed Systems&amp;rdquo; often surfaces as a critical area of study and application.</description>
     </item>
     
   </channel>
